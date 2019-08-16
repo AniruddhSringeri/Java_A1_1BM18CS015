@@ -1,4 +1,4 @@
-//SELECTION SORT
+//bubble sort
 import java.util.*;
 class OneDimensionalArray{
   public static void main(String args[])
